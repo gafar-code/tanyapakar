@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "43860047912",
+    "project_id": "fir-auth-fa145",
+    "storage_bucket": "fir-auth-fa145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43860047912:android:bf56e840a681a563bc5d1d",
+        "android_client_info": {
+          "package_name": "net.kospin.tanyapakar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43860047912-dn21g207a7rpsh6q6o135mqj6teq346i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsMhnqKBVWJUk5c7YrqfZXLLt2IPkIvjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43860047912-dn21g207a7rpsh6q6o135mqj6teq346i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43860047912-iptl4rjlfdm8o641s23av1intmaa5646.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.kospin.tanyapakar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
